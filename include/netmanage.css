@@ -1,0 +1,81 @@
+A:link {font-family: helvetica; font-weight: bold; text-decoration: none;
+font-size: 9pt; color: black;}
+A:visited {font-family: helvetica; font-weight: bold; text-decoration: none;
+font-size: 9pt; color: black;}
+A:hover {color: #ffff00;}
+
+.td 
+{
+font-family: helvetica;
+font-weight: bold;
+text-decoration: none;
+font-size: 9pt; color: black;
+}
+
+.captabel
+{
+font-family: helvetica;
+font-weight: bold;
+text-decoration: none;
+font-size: 9pt; color: yellow;
+}
+
+.tr 
+{
+font-family: helvetica;
+font-weight: bold;
+text-decoration: none;
+font-size: 9pt; color: black;
+}
+
+.tr_on
+{
+font-family: helvetica;
+font-weight: bold;
+text-decoration: none;
+font-size: 9pt; color: red;
+background-color: yellow;
+}
+
+
+
+.tabel
+{
+border-spacing:2px 0px;
+#empty-cells: hide
+}
+
+.butonblue
+{
+    CLEAR: both;
+    BORDER-RIGHT: thin outset;
+    BORDER-TOP: thin outset;
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 9px;
+    TEXT-TRANSFORM: capitalize;
+    BORDER-LEFT: thin outset;
+    CURSOR: pointer;
+    COLOR: red;
+    BORDER-BOTTOM: thin outset;
+    FONT-FAMILY: 'Arial CE';
+    BACKGROUND-COLOR: #83C7FF;
+    TEXT-ALIGN: center
+}
+
+.butonorange
+{
+    CLEAR: both;
+    BORDER-RIGHT: thin outset;
+    BORDER-TOP: thin outset;
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 9px;
+    TEXT-TRANSFORM: capitalize;
+    BORDER-LEFT: thin outset;
+    CURSOR: pointer;
+    COLOR: black;
+    BORDER-BOTTOM: thin outset;
+    FONT-FAMILY: 'Arial CE';
+    BACKGROUND-COLOR: #FF6600;
+    TEXT-ALIGN: center
+}
+
